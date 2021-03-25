@@ -1,14 +1,14 @@
 {
   "name": "quickbooks-js",
   "version": "1.0.0",
-  "author": "Rappid Development LLC",
+  "author": "Rappid Development LLC - forked",
   "description": "A SOAP service implemented in Node.js that communicates with QuickBook's Web Connector",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RappidDevelopment/quickbooks-js"
+    "url": "https://github.com/harderj1/quickbooks-js"
   },
   "bugs": {
-    "url": "https://github.com/RappidDevelopment/quickbooks-js/issues"
+    "url": "https://github.com/harderj1/quickbooks-js/issues"
   },
   "scripts": {
     "test": "mocha",
